@@ -45,8 +45,8 @@ A versatile Javascript Developer building a wide range of solutions.
 ### 🛠️ Utility Applications
 - **DSL (Domain-Specific Languages)**
 - **Utility Applications**
-- CLI Applications
-- TUI Applications
+- **CLI Applications**
+- **TUI Applications**
 
 ---
 
