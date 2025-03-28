@@ -33,7 +33,7 @@ A versatile Javascript Developer building a wide range of solutions.
 ### ⚙️ Development Tools
 - **No Code - Low Code Solutions**
 - **API Development**
-- **NPM Modules**
+- **NPM Packages**
 - **VSCode Extensions**
 - **Sublime Text Plugins**
 - **Browser Plugins**
@@ -45,6 +45,8 @@ A versatile Javascript Developer building a wide range of solutions.
 ### 🛠️ Utility Applications
 - **DSL (Domain-Specific Languages)**
 - **Utility Applications**
+- CLI Applications
+- TUI Applications
 
 ---
 
