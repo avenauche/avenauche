@@ -1,5 +1,6 @@
-# Hey, I'm Avenauche 
+![Alt text](https://media.licdn.com/dms/image/v2/C4D16AQElIN3pkUfMqQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1656269376472?e=1748476800&v=beta&t=ZI66JsWg7cVg1anSg_QkonN0HCchLC33rv9b3Vjp0-c)
 
+# Hey, I'm Avenauche
 A versatile Javascript Developer building a wide range of solutions.
 
 ---
