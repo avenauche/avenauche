@@ -3,6 +3,9 @@
 # Hey, I'm Avenauche
 A versatile Javascript Developer building a wide range of solutions.
 
+![Avenauche's GitHub stats](https://github-readme-stats.vercel.app/api?username=avenauche&theme=github_dark&show_icons=true)
+
+
 ---
 
 
