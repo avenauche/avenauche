@@ -3,7 +3,9 @@
 # Hey, I'm Avenauche
 A versatile Javascript Developer building a wide range of solutions.
 
-![avenauche's Stats](https://github-readme-stats.vercel.app/api?username=avenauche&theme=dark&show_icons=true&hide_border=true&count_private=true) ![avenauche's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avenauche&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![avenauche's Stats](https://github-readme-stats.vercel.app/api?username=avenauche&theme=dark&show_icons=true&hide_border=true&count_private=true) 
+![avenauche's Streak](https://github-readme-streak-stats.herokuapp.com/?user=avenauche&theme=dark&hide_border=true)
+![avenauche's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avenauche&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
