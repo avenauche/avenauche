@@ -1,16 +1,17 @@
-![Alt text](https://media.licdn.com/dms/image/v2/C4D16AQElIN3pkUfMqQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1656269376472?e=1748476800&v=beta&t=ZI66JsWg7cVg1anSg_QkonN0HCchLC33rv9b3Vjp0-c)
+# Hi there, I'm Avenauche! 👋
 
-# Hey, I'm Avenauche
-A versatile Javascript Developer building a wide range of solutions.
+🚀 Full-Stack Developer | Open Source Contributor | Freelancer
+🎯 Passionate about building scalable applications, automation, and unconventional farming technologies.
 
-![avenauche's Stats](https://github-readme-stats.vercel.app/api?username=avenauche&theme=dark&show_icons=true&hide_border=true&count_private=true) 
-![avenauche's Streak](https://github-readme-streak-stats.herokuapp.com/?user=avenauche&theme=dark&hide_border=true)
-![avenauche's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avenauche&theme=dark&show_icons=true&hide_border=true&layout=compact)
+## 🚀 About Me
+- Experienced in JavaScript, Node.js, React
+- Love solving problems and contributing to open-source projects
+- Open to freelance & collaboration opportunities
 
 ---
 
 
-## My Expertise 
+## 🔧 Tech Stack
 
 |Frontend                                                                                     | Backend                                                                                     | Stacks                                                                                     | Mobile                                                                                     | Others                                                                                     |
 |----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
@@ -27,30 +28,30 @@ A versatile Javascript Developer building a wide range of solutions.
 
 ---
 
-## I Make
+## 📊 GitHub Stats
 
-### 🌐 Web Development
-- **Web Apps**
-- **Web SDKs**
-- **Web Scraping**
 
-### ⚙️ Development Tools
-- **No Code - Low Code Solutions**
-- **API Development**
-- **NPM Packages**
-- **VSCode Extensions**
-- **Sublime Text Plugins**
-- **Browser Plugins**
-- **JavaScript Libraries**
-
-### 📱 Mobile Development
-- **Hybrid Mobile Applications**
-
-### 🛠️ Utility Applications
-- **DSL (Domain-Specific Languages)**
-- **Utility Applications**
-- **CLI Applications**
-- **TUI Applications**
+![avenauche's Stats](https://github-readme-stats.vercel.app/api?username=avenauche&theme=dark&show_icons=true&hide_border=true&count_private=true) 
+![avenauche's Streak](https://github-readme-streak-stats.herokuapp.com/?user=avenauche&theme=dark&hide_border=true)
+![avenauche's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avenauche&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
+
+## I Make
+
+| 🌐 Web Development            | ⚙️ Development Tools               | 📱 Mobile Development             | 🛠️ Utility Applications          |
+|-------------------------------|------------------------------------|----------------------------------|----------------------------------|
+| Web Apps                      | No Code - Low Code Solutions      | Hybrid Mobile Applications        | DSL (Domain-Specific Languages)  |
+| Web SDKs                     | API Development                   |                                  | Utility Applications              |
+| Web Scraping                 | NPM Packages                      |                                  | CLI Applications                 |
+|                               | VSCode Extensions                 |                                  | TUI Applications                 |
+|                               | Sublime Text Plugins              |                                  |                                  |
+|                               | Browser Plugins                   |                                  |                                  |
+|                               | JavaScript Libraries              |                                  |                                  |
+
+---
+
+## 🌎 Let's Connect!
+- [ LinkedIn ](https://www.linkedin.com/in/avinashjayakumar)
+  
 
