@@ -3,8 +3,7 @@
 # Hey, I'm Avenauche
 A versatile Javascript Developer building a wide range of solutions.
 
-![Avenauche's GitHub stats](https://github-readme-stats.vercel.app/api?username=avenauche&theme=github_dark&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avenauche&size_weight=0.5&count_weight=0.5)
-
+![avenauche's Stats](https://github-readme-stats.vercel.app/api?username=avenauche&theme=dark&show_icons=true&hide_border=true&count_private=true) ![avenauche's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avenauche&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
