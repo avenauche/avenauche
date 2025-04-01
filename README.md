@@ -1,17 +1,28 @@
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/avinashjayakumar">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+</div>
+
+
 # Hi there, I'm Avenauche! 👋
 
-🚀 Full-Stack Developer | Open Source Contributor | Freelancer
-🎯 Passionate about building scalable applications, automation, and unconventional farming technologies.
+- 🚀 Full-Stack Developer | Open Source Contributor | Freelancer
+- 🎯 Passionate about building scalable applications, automation, and unconventional farming technologies.
+
 
 ## 🚀 About Me
 - Experienced in JavaScript, Node.js, React
 - Love solving problems and contributing to open-source projects
 - Open to freelance & collaboration opportunities
 
----
 
 
-## 🔧 Tech Stack
+## 🔧 I Use
 
 |Frontend                                                                                     | Backend                                                                                     | Stacks                                                                                     | Mobile                                                                                     | Others                                                                                     |
 |----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
@@ -25,18 +36,6 @@
 | ![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat-square&logo=jquery&logoColor=white) |                                                                                            |                                                                                           |                                                                                            |                                                                                            |
 | ![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white) |                                                                                            |                                                                                           |                                                                                            |                                                                                            |
 | ![Backbone.js](https://img.shields.io/badge/-Backbone.js-blue?style=flat-square&logo=backbone.js&logoColor=white) |                                                                                            |                                                                                           |                                                                                            |                                                                                            |
-
----
-
-## 📊 GitHub Stats
-
-
-![avenauche's Stats](https://github-readme-stats.vercel.app/api?username=avenauche&theme=dark&show_icons=true&hide_border=true&count_private=true) 
-![avenauche's Streak](https://github-readme-streak-stats.herokuapp.com/?user=avenauche&theme=dark&hide_border=true)
-![avenauche's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avenauche&theme=dark&show_icons=true&hide_border=true&layout=compact)
-
----
-
 ## I Make
 
 | 🌐 Web Development            | ⚙️ Development Tools               | 📱 Mobile Development             | 🛠️ Utility Applications          |
@@ -49,7 +48,19 @@
 |                               | Browser Plugins                   |                                  |                                  |
 |                               | JavaScript Libraries              |                                  |                                  |
 
----
+
+
+
+## 📊 GitHub Stats
+
+
+![avenauche's Stats](https://github-readme-stats.vercel.app/api?username=avenauche&theme=dark&show_icons=true&hide_border=true&count_private=true) 
+![avenauche's Streak](https://github-readme-streak-stats.herokuapp.com/?user=avenauche&theme=dark&hide_border=true)
+![avenauche's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avenauche&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
+
+
+
 
 ## 🌎 Let's Connect!
 - [ LinkedIn ](https://www.linkedin.com/in/avinashjayakumar)
