@@ -68,19 +68,6 @@ My style is:
 
 ---
 
-### 💖 For Her — My Partner, My Peace
-
-> _I wish she becomes my partner sooner—not as possession, but as presence. Not to fit into my world, but to shape it alongside me._  
->  
-> _She doesn't need to follow me. She doesn't need to fight for me._  
-> _She **stands with me**, throws away all stereotypes, and supports me without ever trying to fix me._  
->  
-> _And if I ever rise — the success is **hers**._  
-> _Not because she's mine — but because she **deserves** to be named, honored, and remembered._  
->  
-> _She believed when belief had no proof — just love._
-
----
 
 ### 🌌 Final Line
 
