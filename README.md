@@ -106,7 +106,7 @@ DM me on [GitHub](https://github.com/avenauche), [LinkedIn](https://www.linkedin
 | [Web Apps](#web-apps)                      | No Code - Low Code Solutions      | Hybrid Mobile Applications        | DSL (Domain-Specific Languages)  |
 | Web SDKs                     | API Development                   |                                  | Utility Applications              |
 | Web Scraping                 | NPM Packages                      |                                  | CLI Applications                 |
-|                               | VSCode Extensions                 |                                  | TUI Applications                 |
+|                               | [VSCode Extensions](#vscode-extensions)                 |                                  | TUI Applications                 |
 |                               | Sublime Text Plugins              |                                  |                                  |
 |                               | Browser Plugins                   |                                  |                                  |
 |                               | JavaScript Libraries              |                                  |                                  |
@@ -124,8 +124,11 @@ DM me on [GitHub](https://github.com/avenauche), [LinkedIn](https://www.linkedin
 
 
 ## Web Apps
-[ Grad2Job ](https://github.com/avenauche/grad2job)
+- [ Grad2Job ](https://github.com/avenauche/grad2job)
 
+## VSCode Extensions
+
+- [ vscode-js-sequence-diagram ](https://github.com/avenauche/vscode-js-sequence-diagram)
 
 ## 🌎 Let's Connect!
 - [ LinkedIn ](https://www.linkedin.com/in/avinashjayakumar)
