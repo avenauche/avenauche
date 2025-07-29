@@ -103,7 +103,7 @@ DM me on [GitHub](https://github.com/avenauche), [LinkedIn](https://www.linkedin
 
 | 🌐 Web Development            | ⚙️ Development Tools               | 📱 Mobile Development             | 🛠️ Utility Applications          |
 |-------------------------------|------------------------------------|----------------------------------|----------------------------------|
-| Web Apps                      | No Code - Low Code Solutions      | Hybrid Mobile Applications        | DSL (Domain-Specific Languages)  |
+| [Web Apps](#web-apps)                      | No Code - Low Code Solutions      | Hybrid Mobile Applications        | DSL (Domain-Specific Languages)  |
 | Web SDKs                     | API Development                   |                                  | Utility Applications              |
 | Web Scraping                 | NPM Packages                      |                                  | CLI Applications                 |
 |                               | VSCode Extensions                 |                                  | TUI Applications                 |
@@ -123,6 +123,8 @@ DM me on [GitHub](https://github.com/avenauche), [LinkedIn](https://www.linkedin
 
 
 
+## Web Apps
+[ Grad2Job ](https://github.com/avenauche/grad2job)
 
 
 ## 🌎 Let's Connect!
